@@ -524,4 +524,7 @@ padding-bottom: -10px;
 .social i:hover{
 	color: #008ed6;
 }
+.social{
+	padding-bottom: 15px;
+}
 
