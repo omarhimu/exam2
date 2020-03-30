@@ -508,30 +508,20 @@ padding-bottom: -10px;
 	font-size: 14px;
 }
 
-.social_follow{
-    width: 100%;
-    float: right;
+
+.social i{
+	color: #444348;
+    margin-right: 15px;
+    font-size: 23px;
 }
-.social_follow ul{
-    list-style: none;
-	float: right;
-	
-	
-}
-.social_follow li{
-	float: left;
-	margin-right: 90px;
-	padding-left: 40px;
-}
-.social_follow ul li a{
-    margin: 20px;
-    color: #444348;
-    text-decoration: none;
-	text-transform: uppercase;
-	font-size: 30px;
+.social text{
+		text-align: center;
+		color: #444348;
+		font-size: 22px;
+		text-transform: uppercase;
 	
 }
-.social_follow ul li a:hover{
-	
+.social i:hover{
 	color: #008ed6;
 }
+
