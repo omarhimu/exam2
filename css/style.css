@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,400i,600,700,900&display=swap');
 
-
+html{
+    scroll-behavior: smooth;
+}
 body{
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15px;
@@ -527,4 +529,12 @@ padding-bottom: -10px;
 .social{
 	padding-bottom: 15px;
 }
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    background: url(../img/top.png);
+    height: 38px;
+	width: 38px;
+}
+
 
